@@ -1,4 +1,1 @@
-```
-vagrant box add centos/7
-vagrant up
-```
+### 自用的Vagrant，暂时没有什么太高深的东西...
